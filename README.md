@@ -1,0 +1,2 @@
+# WTKUDPCHAT
+一个用于练手的UDP聊天器，基于PYTHON&amp;TK GUI
